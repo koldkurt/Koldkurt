@@ -1,0 +1,4 @@
+# Toolchain manager: https://github.com/rojo-rbx/rokit
+# Run `rokit install` to get the pinned tools.
+[tools]
+rojo = "rojo-rbx/rojo@7.4.4"

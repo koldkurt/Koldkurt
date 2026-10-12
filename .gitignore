@@ -1,0 +1,13 @@
+# Rojo build outputs
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+!assets/**/*.rbxm
+!assets/**/*.rbxmx
+
+# Studio lock files
+*.rbxl.lock
+*.rbxlx.lock
+
+sourcemap.json
